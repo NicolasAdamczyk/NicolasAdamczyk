@@ -2,7 +2,7 @@
 
 <h2 align="center">Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies</h2>
 
-<img src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
 
 ## 📌 About Me
 I’m currently a first-year Master’s student specializing in Computer Vision.  
