@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋 I'm Nicolas Adamczyk !</h1>
+<div align="center">
+    <h2>Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies</h2>
+</div>
 
-<h2 align="center">Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img align="center" src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
 
-## 📌 About Me
-I’m currently a first-year Master’s student specializing in Computer Vision.  
-My interests revolve around image processing, 3D geometry, AI, and how machines interpret visual information.  
+# **📌 About Me**
+I’m currently a **first-year Master’s student specializing in Computer Vision**.  
+My interests revolve around **image processing, 3D geometry, AI, and how machines interpret visual information**.  
 I enjoy exploring both classical vision algorithms and modern machine learning approaches.
 
 Beyond university, I’m passionate about **3D modeling and photorealistic rendering** using Blender.  
-This work strengthens my understanding of geometry, lighting, materials, and synthetic images — concepts deeply connected to my field of study.
+This work strengthens my **understanding of geometry, lighting, materials, and synthetic images**, concepts deeply connected to my field of study.
 
 📅 **I’m currently looking for a 2-month internship (June–July 2026)** in:  
 - Computer Vision  
@@ -18,11 +22,9 @@ This work strengthens my understanding of geometry, lighting, materials, and syn
 - AI / Machine Learning   
 - Space-related imaging or data applications  
 
----
+# **🚀 Featured Projects**
 
-## 🚀 Featured Projects
-
-### **🛰️ Real-Time 3D ISS Tracker**
+### 🛰️ Real-Time 3D ISS Tracker
 - 3D visualization of the International Space Station’s real-time orbital position using TLE data.  
 - Includes orbit prediction, coordinate transformations, and an interactive 3D model.  
 - **Technologies:** Python, orbital mechanics, 3D visualization  
@@ -44,27 +46,23 @@ This work strengthens my understanding of geometry, lighting, materials, and syn
 - Strengthens my understanding of 3D geometry and visual realism — directly relevant to computer vision.  
 - **Technologies:** Blender (modeling, shading, rendering), Photoshop (postprocessing)
 
----
 
-## 🎯 What I’m Looking For
+# **🎯 What I’m Looking For**
 I’m actively seeking a **2-month internship (June–July 2026)** in:  
 **Computer Vision, Image Processing, 3D, AI, or Space Imaging.**
 
 I’m motivated to contribute to real projects, learn from industry teams, and deepen my technical expertise.
 
----
 
 ## 📫 Contact
 - ✉️ Email: **nicolas.adamczyk.pro@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/nicolasadamczyk/**  
 - 🎨 3D Portfolio: **https://www.instagram.com/nicolas.creatives/**
 
----
+Thanks for visiting my profile!
 
+___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasAdamczyk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasAdamczyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
----
-Thanks for visiting my profile!
