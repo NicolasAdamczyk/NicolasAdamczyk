@@ -16,7 +16,7 @@ I enjoy exploring both classical vision algorithms and modern machine learning a
 Beyond university, I’m passionate about **3D modeling and photorealistic rendering** using Blender.  
 This work strengthens my **understanding of geometry, lighting, materials, and synthetic images**, concepts deeply connected to my field of study.
 
-📅 **I’m currently looking for a 2-month internship (June–July 2026)** in:  
+📅 **I’m currently looking for a 2-month internship (1st July - 31st August 2026)** in:  
 - Computer Vision  
 - Image Processing  
 - AI / Machine Learning   
@@ -48,7 +48,7 @@ This work strengthens my **understanding of geometry, lighting, materials, and s
 
 
 # **🎯 What I’m Looking For**
-I’m actively seeking a **2-month internship (June–July 2026)** in:  
+I’m actively seeking a **2-month internship (1st July - 31st August 2026)** in:  
 **Computer Vision, Image Processing, 3D, AI, or Space Imaging.**
 
 I’m motivated to contribute to real projects, learn from industry teams, and deepen my technical expertise.
