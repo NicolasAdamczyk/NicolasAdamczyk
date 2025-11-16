@@ -55,20 +55,9 @@ I’m motivated to contribute to real projects, learn from industry teams, and d
 ---
 
 ## 📫 Contact
-<div align="center">
-  <a href="www.linkedin.com/in/nicolasadamczyk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discordapp.com/users/408641848484298754" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.behance.net/nicolasadamczykk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://www.instagram.com/nicolas.creatives/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+- ✉️ Email: **nicolas.adamczyk.pro@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/nicolasadamczyk/**  
+- 🎨 3D Portfolio: **https://www.instagram.com/nicolas.creatives/**
 
 ---
 
