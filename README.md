@@ -1,7 +1,12 @@
-# 👋 Hi, I’m **Nicolas Adamczyk**
-### Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies  
+<h1 align="center">Hi 👋 I'm Nicolas Adamczyk !</h1>
 
----
+<h2 align="center">Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📌 About Me
 I’m currently a first-year Master’s student specializing in Computer Vision.  
@@ -19,59 +24,29 @@ This work strengthens my understanding of geometry, lighting, materials, and syn
 
 ---
 
-## 🧠 Skills
-
-### 🔹 **Computer Vision / AI**
-- OpenCV, image processing, feature extraction  
-- Classical ML (basics): classification, segmentation, prediction  
-- Geometric transformations and camera concepts  
-
-### 🔹 **Software Development**
-- Python, C, C++, C#, Java, JavaScript  
-- SQL & database modeling  
-- Modular programming, software design  
-- Unity (game engine & simulation)
-
-### 🔹 **3D & Visual Tools**
-- Blender (hard-surface modeling, lighting, shading)  
-- Photorealistic rendering  
-- Product visualization & scene composition  
-
-### 🔹 **Other Tools**
-- Git / GitHub  
-- Project organization & documentation  
-- Figma, graphic workflows  
-
----
-
 ## 🚀 Featured Projects
 
 ### **🛰️ Real-Time 3D ISS Tracker**
-3D visualization of the International Space Station’s real-time orbital position using TLE data.  
-Includes orbit prediction, coordinate transformations, and an interactive 3D model.  
-**Tech:** Python, orbital mechanics, 3D visualization  
-➡️ *https://github.com/NicolasAdamczyk/iss-tracker*
-
----
+- 3D visualization of the International Space Station’s real-time orbital position using TLE data.  
+- Includes orbit prediction, coordinate transformations, and an interactive 3D model.  
+- **Technologies:** Python, orbital mechanics, 3D visualization  
+    ➡️ *https://github.com/NicolasAdamczyk/iss-tracker*
 
 ### **💊 Pharmacy Management Application (University Project – Bachelor’s Year)**
-Design and development of a modular pharmacy management system (ERP-style):  
-manages prescriptions, stock levels, supplier orders, and employee records.  
-**Tech:** SQL, software design, backend logic  
-
----
+- Design and development of a modular pharmacy management system (ERP-style):
+- manages prescriptions, stock levels, supplier orders, and employee records.  
+- **Technologies:** SQL, software design, backend logic  
 
 ### **🪜 Stair Step Detection – Computer Vision Project**
-Computer vision pipeline for detecting staircase steps using contour extraction, filtering, and geometric analysis.  
-**Tech:** Python, OpenCV  
+- Computer vision pipeline for detecting staircase steps using contour extraction, filtering, and geometric analysis.  
+- **Technologies:** Python, OpenCV  
 
----
 
 ### **🎨 3D Portfolio – Photorealistic Product Rendering**
-Personal 3D work focused on modeling, materials, lighting, and realism.  
-Includes multiple e-commerce product visualizations and creative scenes.  
-Strengthens my understanding of 3D geometry and visual realism — directly relevant to computer vision.  
-**Tech:** Blender (modeling, shading, rendering)  
+- Personal 3D work focused on modeling, materials, lighting, and realism.  
+- Includes multiple e-commerce product visualizations and creative scenes.  
+- Strengthens my understanding of 3D geometry and visual realism — directly relevant to computer vision.  
+- **Technologies:** Blender (modeling, shading, rendering), Photoshop (postprocessing)
 
 ---
 
@@ -84,9 +59,31 @@ I’m motivated to contribute to real projects, learn from industry teams, and d
 ---
 
 ## 📫 Contact
-- ✉️ Email: **nicolas.adamczyk.pro@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/nicolasadamczyk/**  
-- 🎨 3D Portfolio: **https://www.instagram.com/nicolas.creatives/**  
+<div align="center">
+  <a href="www.linkedin.com/in/nicolasadamczyk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="discordapp.com/users/408641848484298754" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.behance.net/nicolasadamczykk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/nicolas.creatives/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasAdamczyk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasAdamczyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
 
 ---
 
