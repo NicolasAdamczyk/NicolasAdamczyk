@@ -2,11 +2,7 @@
 
 <h2 align="center">Master’s Student in Computer Vision | Passionate about 3D, AI, and Space Technologies</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
 
 ## 📌 About Me
 I’m currently a first-year Master’s student specializing in Computer Vision.  
@@ -82,9 +78,4 @@ I’m motivated to contribute to real projects, learn from industry teams, and d
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/NicolasAdamczyk/NicolasAdamczyk/output/snake.svg" alt="Snake animation" />
-
----
-
 Thanks for visiting my profile!
