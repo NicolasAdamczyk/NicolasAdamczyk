@@ -22,7 +22,7 @@ This work strengthens my **understanding of geometry, lighting, materials, and s
 - 3D visualization of the International Space Station’s real-time orbital position using TLE data.  
 - Includes orbit prediction, coordinate transformations, and an interactive 3D model.  
 - **Technologies:** Python, orbital mechanics, 3D visualization  
-    ➡️ *https://github.com/NicolasAdamczyk/iss-tracker*
+    ➡️ *[https://github.com/NicolasAdamczyk/iss-tracker](https://nicolasadamczyk.github.io/3DWebSite-ISSTracker/)*
 
 ### **💊 Pharmacy Management Application (University Project – Bachelor’s Year)**
 - Design and development of a modular pharmacy management system (ERP-style):
@@ -46,7 +46,7 @@ I’m motivated to contribute to real projects, learn from industry teams, and d
 ## 📫 Contact
 - ✉️ Email: **nicolas.adamczyk.pro@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/nicolasadamczyk/**  
-- 🎨 3D Portfolio: **https://www.instagram.com/nicolas.creatives/**
+- 🎨 Technical Projects Details: **[https://www.instagram.com/nicolas.creatives/](https://projects-showcase-amber.vercel.app/)**
 
 Thanks for visiting my profile!
 
