@@ -16,12 +16,6 @@ I enjoy exploring both classical vision algorithms and modern machine learning a
 Beyond university, I’m passionate about **3D modeling and photorealistic rendering** using Blender.  
 This work strengthens my **understanding of geometry, lighting, materials, and synthetic images**, concepts deeply connected to my field of study.
 
-📅 **I’m currently looking for a 2-month internship (1st July - 31st August 2026)** in:  
-- Computer Vision  
-- Image Processing  
-- AI / Machine Learning   
-- Space-related imaging or data applications  
-
 # **🚀 Featured Projects**
 
 ### 🛰️ Real-Time 3D ISS Tracker
