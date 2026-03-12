@@ -46,7 +46,7 @@ I’m motivated to contribute to real projects, learn from industry teams, and d
 ## 📫 Contact
 - ✉️ Email: **nicolas.adamczyk.pro@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/nicolasadamczyk/**  
-- 🎨 Technical Projects Details: **[https://www.instagram.com/nicolas.creatives/](https://projects-showcase-amber.vercel.app/)**
+- 🎨 Technical Projects Details: **https://projects-showcase-amber.vercel.app/**
 
 Thanks for visiting my profile!
 
