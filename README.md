@@ -40,11 +40,6 @@ This work strengthens my **understanding of geometry, lighting, materials, and s
 - Strengthens my understanding of 3D geometry and visual realism — directly relevant to computer vision.  
 - **Technologies:** Blender (modeling, shading, rendering), Photoshop (postprocessing)
 
-
-# **🎯 What I’m Looking For**
-I’m actively seeking a **2-month internship (1st July - 31st August 2026)** in:  
-**Computer Vision, Image Processing, 3D, AI, or Space Imaging.**
-
 I’m motivated to contribute to real projects, learn from industry teams, and deepen my technical expertise.
 
 
